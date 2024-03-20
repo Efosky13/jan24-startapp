@@ -1,5 +1,5 @@
 import Image from "next/image"
-import Pic from  './Pic 2 .jpg'
+import Pic from  './Pic 2.jpg'
 import style from'./components/styles.modules.css'
 
 export default function Home() {
