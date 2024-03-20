@@ -11,3 +11,24 @@
     width: 400%;
    height:300%;
 }
+.sign{
+    height: 100vh;
+    background-color: lavender;
+}
+
+.lap{
+    height: 100vh;
+    background-image: url(../laptop.png);
+}
+
+.foot{
+    background-color: black;
+    color: wheat;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+
