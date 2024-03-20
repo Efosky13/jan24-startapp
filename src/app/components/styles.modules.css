@@ -1,0 +1,13 @@
+.main p{
+    text-transform: capitalize;
+}
+
+.home{
+    height: 100vh;
+    background-image: linear-gradient(to bottom-right, green 55%, red 55%);
+}
+
+.home img{
+    width: 400%;
+   height:300%;
+}
