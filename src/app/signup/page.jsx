@@ -1,6 +1,6 @@
 import React from 'react'
 import Button from '../components/Button'
-import Input from '../components/Input'
+import Input from '../components/Import'
 export default function SignUp() {
   return (
     <div className='m-auto w-[50%]'>
